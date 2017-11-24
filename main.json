@@ -1,0 +1,1 @@
+{"files":{"guid-2":{"content":""},"guid-3":{"content":""},"guid-5":{"content":""}},"items":[{"type":"group","title":"Group1","guid":"guid-1","items":[{"type":"file","title":"Test2","guid":"guid-3"},{"type":"group","title":"Group2","guid":"guid-4","items":[{"type":"file","title":"Test3","guid":"guid-5"}]}]},{"type":"file","title":"Test1","guid":"guid-2"}]}
